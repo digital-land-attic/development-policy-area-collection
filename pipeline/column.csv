@@ -1,4 +1,4 @@
 pipeline,resource,pattern,value
 development-policy-area,,AND_SITE,name
-development-policy-area,,F_CODE,development-policy-area
+development-policy-area,,F_CODE,geography
 development-policy-area,,WKT,geometry
