@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 development-policy-area,,local-authority-eng:BUC,LPLMCP,5300000
 development-policy-area,,local-authority-eng:BUC,LPHH,5300001
 development-policy-area,,local-authority-eng:BUC,LPWSX,5300002
